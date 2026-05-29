@@ -1,0 +1,6 @@
+{
+  "name": "WallShuffle",
+  "description": "A modern Jetpack Compose Android wallpaper scheduler app and interactive simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
